@@ -1,29 +1,4 @@
-  <div align="center">
-  <div>
-    <img  src="https://i.hizliresim.com/998zxyv.png">
-  </div>
-  </div> 
 
-</p>
-<p align="center">
-    <img src="https://img.shields.io/github/stars/cankatx/stealer?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/forks/cankatx/stealer?color=%23000000"> 
-    <br>
-    <img src="https://img.shields.io/github/languages/top/cankatx/stealer?color=%23000000">
-    <img src="https://img.shields.io/github/last-commit/cankatx/stealer?color=%23000000&logoColor=%23000000">
-    <br>
-    <img src="https://img.shields.io/github/issues/cankatx/stealer?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/cankatx/stealer?color=%23000000&logoColor=%23000000">
-    <br>
-</p>
- 
-<p align="center">
-  Telegram: https://t.me/c_stealer
-  <br>
-  🔱 Join Telegram for support and contact 🔱
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-</p>
-<br>
     
 ## Features
 
